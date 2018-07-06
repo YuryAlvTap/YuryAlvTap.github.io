@@ -1,0 +1,17 @@
+Dimension,Pregunta,Propuesta_Valor,Valor
+PropuestadeValor,Pregunta1,clientes,4
+PropuestadeValor,Pregunta1,consonancia,0
+PropuestadeValor,Pregunta2,red,2
+PropuestadeValor,Pregunta2,Lared,0
+PropuestadeValor,Pregunta3,Hayservicios,4
+PropuestadeValor,Pregunta3,servicios,0
+PropuestadeValor,Pregunta4,satisfechos,4
+PropuestadeValor,Pregunta4,recuencia,0
+FlujosdeIngreso,Pregunta1,elevados,4
+FlujosdeIngreso,Pregunta1,reducidos,0
+FlujosdeIngreso,Pregunta2,Nuestros,0
+FlujosdeIngreso,Pregunta2,bles,4
+FlujosdeIngreso,Pregunta3,frecuentes,0
+FlujosdeIngreso,Pregunta3,repetidas,4
+FlujosdeIngreso,Pregunta4,diversificadas,3
+FlujosdeIngreso,Pregunta4,ingresos,0
